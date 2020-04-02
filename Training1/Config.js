@@ -7,3 +7,4 @@ exports.config = {
       browserName: 'chrome'
     }
   }
+cd
